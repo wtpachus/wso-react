@@ -25,6 +25,7 @@ const ContributorMap = {
   "Lesley Iazzag": 14147,
   "Nathan Vosburg": 14656,
   "Charlie Tharas": 14774,
+  "Alex Moon": 14737,
 };
 
 const constructFacebookLink = (userID: number) => {
